@@ -1,3 +1,4 @@
+#For Step 1
 Create synthetic e-commerce data.
 then Generate a Python script named `data_generate.py` that will create 5 CSV files inside a new folder called `data/`:
 
@@ -19,7 +20,7 @@ then Use pandas or Python csv library.
 After generating the script, run it to actually create the CSV files.
 
 Finally, show the preview of each file.
-
+#For Step 2 
 Then Write a Python script named create_db.py that performs:
 1. Create an SQLite database file named `ecommerce.db`.
 2. Read all 5 CSV files from folder  `data/`  
@@ -28,7 +29,7 @@ Then Write a Python script named create_db.py that performs:
 5. Insert all the rows from each CSV file into the respective tables.
 Keep the script simple and use pandas + sqlite3.
 After inserting, print a preview of each table.
-
+#For Step 3 
 Create a file named queries.sql that contains:
 
 1. Query 1:

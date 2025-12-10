@@ -1,0 +1,54 @@
+Create synthetic e-commerce data.
+then Generate a Python script named `data_generate.py` that will create 5 CSV files inside a new folder called `data/`:
+
+1. customers.csv  
+2. products.csv  
+3. orders.csv  
+4. order_items.csv  
+5. payments.csv  
+
+following Requirements:
+- Use synthetic data.
+- make sure  relational consistency:
+  - orders.customer_id must match customers.id  
+  - order_items.order_id must match orders.id  
+  - order_items.product_id must match products.id  
+  - payments.order_id must match orders.id
+- Include at least 50 customers, 20 products, 100 orders.
+then Use pandas or Python csv library.
+After generating the script, run it to actually create the CSV files.
+
+Finally, show the preview of each file.
+
+Then Write a Python script named create_db.py that performs:
+1. Create an SQLite database file named `ecommerce.db`.
+2. Read all 5 CSV files from folder  `data/`  
+3. Create  corresponding tables in the database with proper data types:
+4.Add appropriate PRIMARY KEY and FOREIGN KEY constraints
+5. Insert all the rows from each CSV file into the respective tables.
+Keep the script simple and use pandas + sqlite3.
+After inserting, print a preview of each table.
+
+Create a file named queries.sql that contains:
+
+1. Query 1:
+   List all orders with customer and product details.
+   Output:
+   - customer_name
+   - product_name
+   - category
+   - order_date
+   - quantity
+   - payment_amount
+   - payment_method
+
+2. Query 2:
+   Top 5 customers by total amount spent.
+
+3. Query 3:
+   Category-wise revenue summary (total revenue per category).
+
+Write  JOIN-based SQL queries using the tables:
+customers, orders, order_items, products, payments.
+
+

@@ -1,0 +1,101 @@
+order_id,customer_id,order_date,status,total_amount,shipping_city
+5001,30,2024-07-05,processing,819.95,Houston
+5002,24,2024-06-30,processing,1699.95,Los Angeles
+5003,43,2024-05-16,delivered,199.98,San Francisco
+5004,44,2024-02-06,delivered,799.98,Los Angeles
+5005,41,2024-03-28,delivered,599.97,Seattle
+5006,47,2024-05-05,processing,809.96,Denver
+5007,30,2024-07-13,shipped,829.95,Houston
+5008,41,2024-10-12,processing,259.98,Seattle
+5009,44,2024-06-15,processing,1999.98,Los Angeles
+5010,15,2024-01-17,shipped,1409.95,Orlando
+5011,26,2024-05-17,processing,2029.92,Sacramento
+5012,14,2024-10-17,delivered,599.96,Miami
+5013,21,2024-04-18,delivered,2299.95,Seattle
+5014,32,2024-07-21,delivered,239.97,Columbus
+5015,30,2024-03-14,shipped,1399.95,Houston
+5016,9,2024-05-06,delivered,829.95,Dallas
+5017,36,2024-10-02,shipped,2389.93,Atlanta
+5018,48,2024-10-26,shipped,2179.96,Austin
+5019,38,2024-07-23,shipped,1299.92,Charlotte
+5020,15,2024-03-11,delivered,2099.94,Orlando
+5021,32,2024-02-16,processing,599.97,Columbus
+5022,8,2024-03-19,delivered,699.93,Austin
+5023,11,2024-08-04,delivered,5489.91,Chicago
+5024,5,2024-07-16,shipped,469.96,San Diego
+5025,39,2024-08-27,delivered,1039.92,Nashville
+5026,17,2024-10-10,processing,1069.92,Raleigh
+5027,44,2024-02-28,delivered,529.95,Los Angeles
+5028,35,2024-05-16,delivered,339.96,Orlando
+5029,22,2024-02-27,shipped,119.98,Portland
+5030,28,2024-03-21,shipped,539.94,Austin
+5031,1,2024-05-14,delivered,1769.93,Seattle
+5032,49,2024-04-01,delivered,1859.89,Dallas
+5033,7,2024-06-01,delivered,449.97,Denver
+5034,33,2024-04-11,processing,639.97,Detroit
+5035,24,2024-03-23,delivered,1639.9,Los Angeles
+5036,50,2024-09-28,processing,2049.92,Houston
+5037,39,2024-06-14,shipped,1789.94,Nashville
+5038,2,2024-02-27,shipped,2869.89,Portland
+5039,20,2024-05-02,processing,2429.92,New York
+5040,16,2024-10-17,processing,1049.95,Atlanta
+5041,6,2024-09-05,processing,1089.94,Sacramento
+5042,49,2024-09-29,processing,1249.95,Dallas
+5043,9,2024-08-31,delivered,439.96,Dallas
+5044,11,2024-05-15,delivered,859.96,Chicago
+5045,39,2024-08-04,processing,3049.93,Nashville
+5046,35,2024-04-12,delivered,1239.93,Orlando
+5047,20,2024-07-23,delivered,399.98,New York
+5048,42,2024-07-10,shipped,6359.89,Portland
+5049,34,2024-08-19,processing,389.97,Miami
+5050,16,2024-04-25,processing,3159.93,Atlanta
+5051,22,2024-01-11,delivered,1019.93,Portland
+5052,36,2024-04-27,delivered,99.99,Atlanta
+5053,15,2024-01-04,processing,979.97,Orlando
+5054,46,2024-01-31,processing,119.99,Sacramento
+5055,5,2024-01-17,shipped,1499.96,San Diego
+5056,5,2024-09-20,processing,1249.97,San Diego
+5057,18,2024-09-05,processing,659.98,Charlotte
+5058,35,2024-03-08,delivered,49.99,Orlando
+5059,37,2024-10-22,shipped,469.95,Raleigh
+5060,16,2024-08-30,shipped,779.94,Atlanta
+5061,13,2024-02-18,processing,49.99,Detroit
+5062,43,2024-08-08,shipped,729.93,San Francisco
+5063,28,2024-07-29,shipped,1859.95,Austin
+5064,47,2024-01-28,delivered,2899.89,Denver
+5065,42,2024-02-20,processing,1209.94,Portland
+5066,26,2024-06-22,processing,1649.94,Sacramento
+5067,16,2024-04-08,processing,2579.94,Atlanta
+5068,35,2024-08-17,processing,519.93,Orlando
+5069,28,2024-04-03,shipped,689.95,Austin
+5070,30,2024-05-07,processing,889.94,Houston
+5071,29,2024-10-08,processing,849.95,Dallas
+5072,4,2024-10-03,processing,1249.93,Los Angeles
+5073,6,2024-05-01,processing,1409.95,Sacramento
+5074,27,2024-09-05,shipped,179.98,Denver
+5075,14,2024-07-24,processing,299.97,Miami
+5076,11,2024-07-13,processing,509.95,Chicago
+5077,25,2024-05-15,shipped,319.96,San Diego
+5078,19,2024-08-04,delivered,489.97,Nashville
+5079,47,2024-10-11,delivered,2349.96,Denver
+5080,46,2024-09-06,processing,1699.94,Sacramento
+5081,13,2024-05-31,processing,1709.94,Detroit
+5082,4,2024-10-23,delivered,399.98,Los Angeles
+5083,35,2024-02-01,delivered,149.97,Orlando
+5084,21,2024-01-30,processing,399.99,Seattle
+5085,38,2024-09-01,delivered,1289.92,Charlotte
+5086,34,2024-03-21,processing,699.96,Miami
+5087,33,2024-02-11,processing,599.93,Detroit
+5088,5,2024-10-31,processing,269.97,San Diego
+5089,44,2024-04-30,shipped,379.98,Los Angeles
+5090,8,2024-10-18,processing,229.98,Austin
+5091,38,2024-10-31,processing,2679.92,Charlotte
+5092,40,2024-02-11,shipped,1249.93,New York
+5093,43,2024-10-25,delivered,649.98,San Francisco
+5094,34,2024-06-10,shipped,219.96,Miami
+5095,14,2024-06-09,processing,1499.97,Miami
+5096,17,2024-07-21,processing,1399.93,Raleigh
+5097,43,2024-06-02,shipped,119.99,San Francisco
+5098,21,2024-02-07,processing,4179.9,Seattle
+5099,30,2024-10-15,processing,749.97,Houston
+5100,5,2024-10-02,processing,659.98,San Diego

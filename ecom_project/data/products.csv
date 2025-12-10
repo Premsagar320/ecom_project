@@ -1,0 +1,21 @@
+product_id,product_name,category,price,stock_qty
+1,"Laptop 15""",Computers,999.99,120
+2,Smartphone X,Mobile,699.99,362
+3,Noise-Canceling Headphones,Audio,129.99,230
+4,Smartwatch Pro,Wearables,199.99,401
+5,Gaming Console,Entertainment,399.99,396
+6,"Tablet 10""",Mobile,329.99,265
+7,Bluetooth Speaker,Audio,89.99,375
+8,External SSD 1TB,Storage,149.99,178
+9,"27"" 4K Monitor",Computers,249.99,440
+10,Mechanical Keyboard,Peripherals,59.99,115
+11,Wireless Mouse,Peripherals,39.99,103
+12,HD Webcam,Peripherals,79.99,418
+13,All-in-One Printer,Peripherals,199.99,196
+14,Wi-Fi 6 Router,Networking,129.99,475
+15,Camera Drone,Electronics,499.99,228
+16,VR Headset,Electronics,299.99,120
+17,Smart Home Hub,Home,149.99,199
+18,Fitness Tracker,Wearables,99.99,131
+19,Portable Charger 20k,Accessories,49.99,274
+20,E-reader,Electronics,119.99,222
